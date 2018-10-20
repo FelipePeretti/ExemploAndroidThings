@@ -1,0 +1,6 @@
+placa direita
+placa esquerda
+placa pare
+sinal amarelo
+sinal verde
+sinal vermelho

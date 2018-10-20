@@ -1,0 +1,1 @@
+python -m scripts.retrain \ --bottleneck_dir=tf_files / gargalos \ --how_many_training_steps=150 \ --model_dir=tf_files/models/ \ --summaries_dir=tf_files/ training_summaries/models \ --output_graph=tf_files/retrained_graph.pb \ --output_labels=000tf_files/retrained_labels.txt \ --architecture=mobilenet_1.0_224_quantized \ --image_dir=data \ --learning_rate=0.01
